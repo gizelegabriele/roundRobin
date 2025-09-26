@@ -29,7 +29,7 @@ O programa deve ser testado com o seguinte cenário:
 
 ---
 
-### 🚀 Como Executar o Programa  
+### Como Executar o Programa  
 
 #### Pré-requisitos:
 
@@ -42,3 +42,21 @@ Você precisa ter o **Python** instalado na máquina.
 
 ```bash
 git clone https://github.com/gizelegabriele/roundRobin.git
+```
+3. Abra o projeto na IDE.
+4. No terminal, digite o comando abaixo para executar o programa:
+```bash
+python main.py
+```  
+--- 
+###  Considerações:
+
+Projeto desenvolvido na competência de *Desenvolver simulador de abstrações de recursos de S.O* orientado pela professora Anna Beatriz Lucena.
+
+#### Integrantes:
+
+- Diogo Fernando — 2313080079  
+- Fábio Dantas Filho — 2313080081  
+- Gizele Gabriele Vidal de Sousa — 2313080143  
+- Gustavo de Sousa Maciel — 2313080131  
+- Renata Cardoso Mantovani — 2313080105  
